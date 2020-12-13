@@ -6,7 +6,7 @@ Kodigen Frontend Başlangıç Paketi, TailwindCSS kullarak tema üretmeye olanak
 ## Setup Guide
 * Repo'yu klonlayın  ```git clone git@github.com:muratozden/envato-starter.git project-name```
 * Paketleri yükleyin
-   ```npm install or npm i```
+   ```npm install``` veya ```npm i```
 
 * TailwindCSS'i yükleyin
    ```npm run init-tailwind```
@@ -23,7 +23,7 @@ Kodigen Frontend Başlangıç Paketi, TailwindCSS kullarak tema üretmeye olanak
 * Projeyi derler ve optimize eder.
   ```npm run build ```
 
-* Projeyi yayın için paketi derlerç.
+* Projeyi yayın için paketi derler.
   ```npm run prod```
 
 
