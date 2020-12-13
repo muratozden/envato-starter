@@ -15,8 +15,7 @@ Kodigen Frontend Başlangıç Paketi, TailwindCSS kullarak tema üretmeye olanak
    ```npm run css```
   Dosya yolu `html/assets/syle/css/tailwind.css`
 
-* Local server'ı çalıştırın  
-  ```npm run dev```
+* Local server'ı çalıştırın  ```npm run dev```
 
 * Projeyi derlenerek ```/html``` klasöründe çalışır.
 
