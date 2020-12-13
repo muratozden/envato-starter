@@ -1,0 +1,7 @@
+### Start ###
+
+User-agent: *
+Disallow:
+Sitemap:
+
+### Stop ###
